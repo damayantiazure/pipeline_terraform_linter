@@ -10,4 +10,4 @@ pipeline.terraform.pr.yml, with a task: TerraformCLI@0 for Terraform validations
 
 ![image](https://github.com/damayantiazure/pipeline_terraform_linter/assets/92169356/05dd52c2-1698-44d5-b0c9-0a9aaa9aaf4a)
 
-
+Create a pipeline: with an existing pipeline pipeline.terraform.pr.yml, Save and run it and find the result.
